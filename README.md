@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethmi1119&label=Profile%20views&color=0e75b6&style=flat" alt="nethmi1119" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Data** **Science** and **Machine** **Learning**
 
-- 💬 Ask me about **Java, C, Python**
+- 💬 Ask me about **Programming & Statistical Analysis**
 
 - 📫 How to reach me **apsaranethmi2001@gmail.com**
 
