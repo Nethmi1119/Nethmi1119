@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethmi Apsara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Statistics Undergraduate | Aspiring Data Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethmi1119&label=Profile%20views&color=0e75b6&style=flat" alt="nethmi1119" /> </p>
 
